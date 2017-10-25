@@ -2,7 +2,7 @@
  "name": "My PWA Test",
  "short_name": "PWA Test",
  "lang": "en-US",
- "start_url": "https://pwa-trial-55562.firebaseapp.com/",
+ "start_url": "https://rbcabreraupm.github.io/First_PWA/",
  "background_color": "#2C3E50",
  "theme_color": "#18BC9C",
  "display": "standalone",
